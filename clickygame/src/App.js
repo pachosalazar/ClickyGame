@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Card from "./components/card";
-import Wrapper from "./components/wrapper";
-import Score from "./components/score";
+import Card from "./components/Card";
+import Wrapper from "./components/Wrapper";
+import Score from "./components/Score";
 import sims from "./cards.json";
 import "./App.css";
 
